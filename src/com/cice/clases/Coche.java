@@ -25,7 +25,7 @@ public class Coche {
     boolean esAndando;
     boolean esEncendido;
     
-    //constructora OHL
+    //constructor
     Coche(){
 
     }
